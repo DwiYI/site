@@ -1,0 +1,4 @@
+# Replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher ID (AdMob -> Settings -> Account information).
+# NOTE: AdMob looks for app-ads.txt at the ROOT of the developer website listed in Play Console.
+# If you list https://selftryout.yukpay.com as the website, this file is served correctly from here.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
